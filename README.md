@@ -31,6 +31,6 @@ def circulate():
 print("After circulating the values are:",circulate())    
   ``` 
 ## Output:
-![output](exp02output.png)
+![output](exp02output.png.png)
 ## Result:
 Thus the program to circulate the n variables is successfully executed.
